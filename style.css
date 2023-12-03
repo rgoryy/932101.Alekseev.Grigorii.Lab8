@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.field input {
+    width: 175px;
+}
+
+.field button {
+    width: 20px;
+}
